@@ -1,5 +1,5 @@
 ---
-title: Do you know anything about sensory deprivation tanks?????
+title: Do you know anything about sensory deprivation tanks?
 date: 2021-02-02
 tags:
   - stranger things
